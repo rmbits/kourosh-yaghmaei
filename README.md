@@ -1,2 +1,2 @@
-# FCC Projects:
-Tribute Page For Kourosh Yaghmaei
+# Kourosh Yaghmaei
+FCC Tribute Page
