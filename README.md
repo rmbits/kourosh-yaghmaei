@@ -1,2 +1,2 @@
-# Kourosh Yaghmaei
-FCC Tribute Page
+# Kourosh Yaghmaei Tribute Page
+This is my first FreeCodeCamp project.
