@@ -2,17 +2,9 @@ body {
   margin: auto;
   background-color: #DECCC4;
   font-family: Verdana;
-  max-width: 50%;
+  max-width: 980px;
   display: block;
-  padding-bottom: 20px;
-}
-
-@media (max-width: 1000px) {
-  body {
-    margin: 50px;
-    display: block;
-    max-width: 100%;
-  }
+  padding: 50px;
 }
 
 h1 {
@@ -31,4 +23,14 @@ h1 {
 
 img {
   max-width: 100%;
+  display: block;
+}
+
+@media (max-width: 1000px) {
+
+  body {
+    display: block;
+    max-width: 100%;
+  }
+
 }
